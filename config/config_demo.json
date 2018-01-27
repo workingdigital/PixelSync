@@ -8,7 +8,7 @@
         "BOARD": true,
         "WEATHER": true,
         "FLASHINFO": true,
-        "PARTNERS" : true,
+        "PARTNERS" : false,
         "SCHEDULE": true,
         "schedule_timeslot": {
             "monday": "14:00–20:00",
