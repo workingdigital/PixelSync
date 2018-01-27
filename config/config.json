@@ -1,0 +1,22 @@
+    {
+        "SERVER_IP": "serial-editoring.workingdigital.org",
+        "name": "de la <b>Société Nantaise de Tir</b>",
+        "website": "www.sntir.org",
+        "weatherbit_city": "la+chapelle+sur+erdre",
+        "weatherbit_APIKEY": "da42c62c2ee54bc98dbc5f6f539f624d",
+        "CLOCK" : true,
+        "BOARD": false,
+        "WEATHER": true,
+        "FLASHINFO": true,
+        "PARTNERS" : true,
+        "SCHEDULE": true,
+        "schedule_timeslot": {
+            "monday": "14:00–20:00",
+            "tuesday": "<font color=\"#FF3030\">fermé</font>",
+            "wednesday": "14:00–20:00",
+            "thurday": "14:00–20:00",
+            "fhurday": "14:00–20:00",
+            "saturday": "14:00–18:30",
+            "sunday": "09:00–12:00"
+        }
+    }
